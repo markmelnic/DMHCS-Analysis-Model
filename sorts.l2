@@ -1,0 +1,4 @@
+LEVEL;          {high, low}
+AGENT;          {arnie}
+INDICATOR;      {<cardiovascular_diseases>, <performance>, <feeling_of_loneliness>, <observed>}
+ASSESSMENT;     {lonely, not lonely}
